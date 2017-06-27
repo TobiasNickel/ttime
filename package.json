@@ -1,0 +1,23 @@
+{
+  "name": "ttime",
+  "version": "0.0.0",
+  "description": "static methods for Dates",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TobiasNickel/ttime.git"
+  },
+  "keywords": [
+    "date",
+    "time"
+  ],
+  "author": "Tobias Nickel",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TobiasNickel/ttime/issues"
+  },
+  "homepage": "https://github.com/TobiasNickel/ttime#readme"
+}
